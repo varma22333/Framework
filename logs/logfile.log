@@ -1,0 +1,52 @@
+2016-04-17 11:55:46,892 INFO  [textHolder1] Intialization is done 
+2016-04-17 11:55:46,901 INFO  [textHolder1] Intialization of driver and firefox browser is starting 
+2016-04-17 11:55:52,903 INFO  [textHolder1] Intialization of driver and firefox browser is done 
+2016-04-17 11:55:52,903 INFO  [textHolder1] Opening of url is starting 
+2016-04-17 11:56:00,232 INFO  [textHolder1] Opening of url is done 
+2016-04-17 11:56:01,225 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:01,226 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:02,151 INFO  [ActionDriver] Clicking on//*[@id='header-account-menu']is successful 
+2016-04-17 11:56:02,799 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:02,799 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:05,581 INFO  [ActionDriver] Clicking on//*[@id='header-account-signin']is successful 
+2016-04-17 11:56:06,246 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===id 
+2016-04-17 11:56:06,246 INFO  [ActionDriver] Finding element based on ID 
+2016-04-17 11:56:06,446 INFO  [ActionDriver] Typing into signin-loginidis successful 
+2016-04-17 11:56:06,536 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===id 
+2016-04-17 11:56:06,536 INFO  [ActionDriver] Finding element based on ID 
+2016-04-17 11:56:07,130 INFO  [ActionDriver] Typing into signin-passwordis successful 
+2016-04-17 11:56:07,215 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:07,215 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:13,449 INFO  [ActionDriver] Clicking on.//*[@id='submitButton']is successful 
+2016-04-17 11:56:14,056 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:14,057 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:14,500 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:14,500 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:15,290 INFO  [ActionDriver] Clicking on//*[@id='tab-flight-tab']is successful 
+2016-04-17 11:56:15,572 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:15,572 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:16,746 INFO  [ActionDriver] Typing into //*[@id='flight-origin']is successful 
+2016-04-17 11:56:16,814 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:16,814 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:18,625 INFO  [ActionDriver] Typing into .//*[@id='flight-destination']is successful 
+2016-04-17 11:56:18,673 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:18,673 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:20,780 INFO  [ActionDriver] Typing into //*[@id='flight-departing']is successful 
+2016-04-17 11:56:20,817 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:20,817 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:23,464 INFO  [ActionDriver] Typing into //*[@id='flight-returning']is successful 
+2016-04-17 11:56:24,237 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:24,237 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:36,632 INFO  [ActionDriver] Clicking on//*[@id='search-button']is successful 
+2016-04-17 11:56:37,540 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:37,540 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:56:37,860 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:56:37,860 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:57:01,056 INFO  [ActionDriver] Clicking on//ul[@id='flightModuleList']/li[1]//div[@class='flex-content']//buttonis successful 
+2016-04-17 11:57:01,860 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:57:01,860 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:57:02,384 INFO  [ActionDriver] Clicking on//*[@id='primary-header-package']is successful 
+2016-04-17 11:57:02,488 INFO  [ActionDriver] Printing the Element Locator value coming from xl sheet ===xpath 
+2016-04-17 11:57:02,488 INFO  [ActionDriver] Finding based on xpath 
+2016-04-17 11:58:05,950 INFO  [textHolder1] closing of browser 
+2016-04-17 11:58:06,383 INFO  [textHolder1] closing of browser is done 

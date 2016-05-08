@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="AppUrl" value="https://www.orbitz.com/"></parameter>
+<parameter name="xlsSourceFilePath"  value="C:\Users\sandeep\msv\Framework\src\xlsx\Orbitz.xlsx"/>
+<parameter name="xlsResultFilePath"  value="C:\Users\sandeep\msv\Framework\src\xlsx\Orbitz_result.xlsx"/>
+<parameter name="TestCase1SheetName"  value="TestCase1"/>
+<parameter name="TestCase2SheetName"  value="TestCase2"/>
+<parameter name="TestCase3SheetName"  value="TestCase3"/>
+<!-- <parameter name="TestCase4SheetName"  value="TestCase4"/>
+<parameter name="TestCase5SheetName"  value="TestCase5"/> -->
+  <test name="Test">
+    <classes>
+      <class name="testholder.textHolder1">
+	      <methods>
+	     	<include name="testcase1"></include>
+	     	<include name="testcase2"></include>
+	     	
+	     	
+	      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+

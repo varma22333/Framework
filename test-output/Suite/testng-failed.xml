@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="xlsResultFilePath" value="C:\Users\sandeep\msv\Framework\src\xlsx\Orbitz_result.xlsx"/>
+  <parameter name="TestCase1SheetName" value="TestCase1"/>
+  <parameter name="AppUrl" value="https://www.orbitz.com/"/>
+  <parameter name="xlsSourceFilePath" value="C:\Users\sandeep\msv\Framework\src\xlsx\Orbitz.xlsx"/>
+  <parameter name="TestCase3SheetName" value="TestCase3"/>
+  <parameter name="TestCase2SheetName" value="TestCase2"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="testholder.textHolder1">
+        <methods>
+          <include name="InitializeSelenium"/>
+          <include name="InIntializeLogs"/>
+          <include name="TestCase2" invocation-numbers="0"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- testholder.textHolder1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
